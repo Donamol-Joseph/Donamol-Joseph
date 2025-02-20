@@ -1,11 +1,35 @@
 <h1 align="center">Hey There, I'm Donamol Joseph</h1>
 
-# 💫 About Me:
-<br>I’m a passionate coding enthusiast with a strong foundation in Python and a keen interest in crafting intuitive and engaging user experiences. My journey in technology combines logical problem-solving with creativity, which drives my interest in UI/UX design and its role in making technology more accessible and impactful.  <br>  <br><br>🛠️ Skills & Interests  <br>- Languages & Tools: Python and UI/UX prototyping tools  <br>- Always Learning: New technologies, design principles, and ways to integrate code and creativity  <br><br>🌟 Projects & Repositories  <br>My projects reflect my passion for building functional yet elegant solutions. From coding scripts that solve real-world problems to experimenting with UI/UX prototypes, I aim to create meaningful and innovative tools.  <br><br>Feel free to browse my repositories to explore what I’ve been working on! Highlights include:  <br>- 🚀 Automation tools and scripts  <br>- 🎨 UI/UX-focused projects showcasing my design philosophy  <br><br><br>🤝 Let’s Collaborate!  <br>I’m always eager to connect with like-minded individuals who share a passion for technology and design. Whether you have an exciting project idea, want to collaborate, or just want to chat about coding, design, or the tech world, don’t hesitate to reach out!  <br><br>
+<H2> 💫 About Me </H2>
 
 
-## 🌐 Socials:
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/donamoljoseph/) 
+<p>I’m a passionate coding enthusiast with a strong foundation in Python and a keen interest in crafting intuitive and engaging user experiences. My journey in technology combines logical problem-solving with creativity, which drives my interest in UI/UX design and its role in making technology more accessible and impactful.</p>
+
+<h2>🛠️ Skills & Interests</h2>
+
+
+<h3>Languages & Tools </h3> 
+
+<ul>Python </ul><ul>UI/UX prototyping tools</ul>  
+
+
+<h3> Always Learning</h3> 
+
+<ul>New technologies</ul> <ul>design principles</ul> <ul> Ways to integrate code and creativity  </ul>
+
+
+<h2>🌟 Projects & Repositories</h2> 
+
+ ### [🚀 Donna](https://github.com/Donamol-Joseph/Donna)
+
+<p>Feel free to browse my repositories to explore what I’ve been working on! Highlights include</p> 
+
+## 🤝 Let’s Collaborate!  
+
+<p>I’m always eager to connect with like-minded individuals who share a passion for technology and design. Whether you have an exciting project idea, want to collaborate, or just want to chat about coding, design, or the tech world, don’t hesitate to reach out!  </p>
+
+[![Dona LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/donamoljoseph/) 
+![DonaInstagram](https://img.shields.io/badge/Instagram-_dona_joseph__-blue?style=flat-square&logo=instagram)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
