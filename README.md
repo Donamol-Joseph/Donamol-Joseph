@@ -32,7 +32,7 @@
 <p>I’m always eager to connect with like-minded individuals who share a passion for technology and design. Whether you have an exciting project idea, want to collaborate, or just want to chat about coding, design, or the tech world, don’t hesitate to reach out!  </p>
 
 [![Dona LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/donamoljoseph/) 
-![DonaInstagram](https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram)
+![DonaInstagram](https://img.shields.io/badge/Instagram=FD1D1D?style=flat-square&logo=instagram)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
