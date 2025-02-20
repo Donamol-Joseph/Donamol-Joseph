@@ -31,7 +31,7 @@
 
 <p>I’m always eager to connect with like-minded individuals who share a passion for technology and design. Whether you have an exciting project idea, want to collaborate, or just want to chat about coding, design, or the tech world, don’t hesitate to reach out!  </p>
 
-[![Dona LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-squarelogo=linkedin&logoColor=white)](https://linkedin.com/in/donamoljoseph/) 
+[![Dona LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/donamoljoseph/) 
 ![DonaInstagram](https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram)
 
 # 💻 Tech Stack:
