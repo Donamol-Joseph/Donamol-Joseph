@@ -20,7 +20,10 @@
 
  ### [🚀 Donna](https://github.com/Donamol-Joseph/Donna)
 
-<p>Feel free to browse my repositories to explore what I’ve been working on! Highlights include</p> 
+<p>An expiry date checker that sends notifications when products or items expire</p> 
+
+
+
 
 ## 🤝 Let’s Collaborate!  
 
