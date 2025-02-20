@@ -25,25 +25,35 @@
 
 
 
-## 🤝 Let’s Collaborate!  
+## 📊 GitHub Stats
 
-<p>I’m always eager to connect with like-minded individuals who share a passion for technology and design. Whether you have an exciting project idea, want to collaborate, or just want to chat about coding, design, or the tech world, don’t hesitate to reach out!  </p>
+![Dona Stats](https://github-readme-stats.vercel.app/api?username=Donamol-Joseph&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
 
-[![Dona LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/donamoljoseph/) 
-![DonaInstagram](https://img.shields.io/badge/Instagram-red?style=flat-square&logo=instagram)
+---
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Donamol-Joseph&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Donamol-Joseph&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Donamol-Joseph&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🔝 Top Contributed Repo
+---
+
 ![Donamol's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Donamol-Joseph&theme=nightowl&height=300)
 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Donamol-Joseph&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌏 Let’s Collaborate!  
+
+<p>I’m always eager to connect with like-minded individuals who share a passion for technology and design. Whether you have an exciting project idea, want to collaborate, or just want to chat about coding, design, or the tech world, don’t hesitate to reach out!  </p>
+
+<div align='left'>
+  
+  [📩](https://mail.google.com/mail/?view=cm&fs=1&to=donajoseph272006@gmail.com) **Email**   
+  [💼](https://linkedin.com/in/briettamariamshibu) **LinkedIn**  
+  [📸](https://instagram.com/_dona_joseph__) **Instagram**   
+
+</div>
+
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
