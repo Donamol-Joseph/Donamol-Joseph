@@ -49,7 +49,7 @@
 <div align='left'>
   
   [📩](https://mail.google.com/mail/?view=cm&fs=1&to=donajoseph272006@gmail.com) **Email**   
-  [💼](https://linkedin.com/in/briettamariamshibu) **LinkedIn**  
+  [💼](https://linkedin.com/in/donamoljoseph) **LinkedIn**  
   [📸](https://instagram.com/_dona_joseph__) **Instagram**   
 
 </div>
