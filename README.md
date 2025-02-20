@@ -10,12 +10,15 @@
 
 <h3>Languages & Tools </h3> 
 
-<ul>Python </ul><ul>UI/UX prototyping tools</ul>  
+- Python
+- UI/UX prototyping tools 
 
 
 <h3> Always Learning</h3> 
 
-<ul>New technologies</ul> <ul>design principles</ul> <ul> Ways to integrate code and creativity  </ul>
+- New technologies
+- Design principles
+- Ways to integrate code and creativity
 
 
 <h2>🌟 Projects & Repositories</h2> 
