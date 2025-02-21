@@ -1,4 +1,4 @@
-<h1 align="center">Hey There, I'm Donamol Joseph</h1>
+<H1 align="center">Hey There, I'm Donamol Joseph</H1>
 
 <H2> 💫 About Me </H2>
 
