@@ -1,6 +1,6 @@
 <H1 align="center">Hey There, I'm Donamol Joseph</H1>
 
-<H2> 💫 About Me </H2>
+<h2> 💫 About Me </h2>
 
 
 <p>I’m a passionate coding enthusiast with a strong foundation in Python and a keen interest in crafting intuitive and engaging user experiences. My journey in technology combines logical problem-solving with creativity, which drives my interest in UI/UX design and its role in making technology more accessible and impactful.</p>
