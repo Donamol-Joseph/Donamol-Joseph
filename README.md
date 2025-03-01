@@ -16,7 +16,7 @@
 - Ways to integrate code and creativity
 
 
-<H2>🌟 Projects & Repositories</h2> 
+<h2>🌟 Projects & Repositories</h2> 
 
  ### [🚀 Donna](https://github.com/Donamol-Joseph/Donna)
 
