@@ -43,7 +43,7 @@
 ---
 
 ## 🌏 Let’s Collaborate!  
-7
+
 <p>I’m always eager to connect with like-minded individuals, who share a passion for technology and design. Whether you have an exciting project idea, want to collaborate, or just want to chat about coding, design, or the tech world, don’t hesitate to reach out!  </p>
 
 <div align='left'>
